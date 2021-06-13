@@ -1,0 +1,253 @@
+.backgroundimage{
+     
+     background-image: url("image/balloon.jpg");
+     background-repeat:no-repeat;
+     background-attachment: fixed;
+     background-position: center;
+}
+.heading{
+	margin-left: 50%;
+}
+.header{
+	min-height: 100px;
+	background-color: red;
+}
+
+.wrapper{
+overflow: hidden;
+}
+
+.contact1{
+	min-height: 100px;
+	background-color: blue;
+	width: 50%;
+	float: left;
+}
+
+.blog1{
+	min-height: 100px;
+	background-color: pink;
+	width: 50%;
+	float: right;
+}
+
+.contact2{
+	min-height: 100px;
+	background-color: blue;
+	width: 25%;
+	float: left;
+}
+.blog2{
+	min-height: 100px;
+	background-color: pink;
+	width: 50%;
+	float:left ;
+}
+.about2{
+	min-height: 100px;
+	background-color: yellow;
+	width: 25%;
+	float:right;
+}
+.contact3{
+	min-height: 100px;
+    background-color: blue;
+    width: 25%;
+    float: left;
+}
+.blog3{
+	min-height: 100px;
+    background-color: pink;
+    width: 25%;
+    float: left;
+}
+.about3{
+	min-height: 100px;
+    background-color: yellow;
+    width: 25%;
+    float: left;
+}
+.media3{
+	min-height: 100px;
+    background-color: green;
+    width: 25%;
+    float: left;
+}
+.contact4{
+	min-height: 100px;
+    background-color: blue;
+    width: 20%;
+    float: left;
+}
+.blog4{
+	min-height: 100px;
+    background-color: pink;
+    width: 20%;
+    float: left;
+}
+.about4{ 
+	min-height: 100px;
+    background-color: yellow;
+    width: 20%;
+    float: left;
+}
+.media4{ 
+	min-height: 100px;
+    background-color: green;
+    width: 20%;
+    float: left;
+}
+.artical4{
+	min-height: 100px;
+    background-color: orange;
+    width: 20%;
+    float: left;
+}
+.contact5{
+	min-height: 100px;
+    background-color: blue;
+    width: 16.667%;
+    float: left;
+}
+.blog5{
+	min-height: 100px;
+    background-color: pink;
+    width: 16.667%;
+    float: left;
+}
+.about5{ 
+	min-height: 100px;
+    background-color: yellow;
+    width: 16.667%;
+    float: left;
+}
+.media5{ 
+	min-height: 100px;
+    background-color: green;
+    width: 16.667%;
+    float: left;
+}
+.artical5{
+	min-height: 100px;
+    background-color: orange;
+    width: 16.667%;
+    float: left;
+}
+.aside5{
+	min-height: 100px;
+	background-color: lime;
+	width: 16.667%;
+	float: left;
+}
+.footer{
+	min-height: 100px;
+	background-color: black;
+}
+
+.color{
+	background-color: pink;
+}
+.text{
+	color: blue;
+}
+.bordercolor{
+	border: 5px solid red;
+}
+
+.bordercolor{
+	background-image:url(image/balloon.jpg) ;
+}
+
+.opacity1{
+	opacity: 0.3;
+	background-color: green;
+}
+.opacity2{
+	opacity: 0.6;
+	background-color: green;
+}
+.opacity3{
+	opacity: 1.0;
+	background-color: green;
+}
+
+.dotted{
+ border-style:dotted ;      
+border-color:blue ;
+}
+.dashed{
+border-style:dashed ;
+border-color: yellow;
+}
+.solid{
+border-style: solid;
+border-color:red ;
+}
+.double{
+border-style:double ;
+border-color:green ;
+}
+.groove{
+border-style:groove ;
+border-color:pink;
+}
+.ridge{
+border-style:ridge ;
+border-color:orange ;
+}
+.inset{
+border-style: inset;
+border-color:olive; 
+}
+
+.outset{
+border-style:outset ;
+border-color:orchid ;
+}
+.none{
+border-style:none ;
+border-color:aqua ;
+}
+.hidden{
+border-style:hidden ;
+border-color: honeydew;
+}
+.mix{
+border-style:dotted dashed solid double ;
+border-color: black;
+}
+.indivisiulborder{
+	border-color: red;
+	border-top-style:dotted ;
+	border-left-style: solid;
+	border-right-style: solid;
+	border-bottom-style: dashed;
+	padding: 100px;
+}
+
+.normal{
+	border: 2px solid red;
+	height: 50px;
+	width: 100%;
+}
+
+.round1{
+	border: 2px solid red;
+border-radius:5px ;
+
+}
+.round2{
+border: 2px solid red;
+border-radius:8px ;
+
+}
+.round3{
+border: 10px solid red;	
+border-radius: 12px;
+min-height: 100px;
+background-color: pink;
+}
+
+.round3>h1{
+	margin: 50px 500px;
+}
